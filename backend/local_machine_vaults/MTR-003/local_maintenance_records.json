@@ -1,0 +1,290 @@
+[
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  },
+  {
+    "id": "MAINT-PREV-001",
+    "machine_id": "MTR-003",
+    "activity_type": "Routine",
+    "status": "Completed",
+    "created_at": "2026-09-18 09:30:00",
+    "completed_at": "2026-09-18 11:45:00",
+    "technician_name": "J. Ramirez (Cert L3)",
+    "observations": "Semi-annual lubrication replenishment and coupling alignment check.",
+    "confirmed_findings": "Coupling offset within 0.03mm. Synthetic grease renewed in drive-end bearing.",
+    "actions_taken": "Regreased with 35g Kluberplex BEM 34-132. Re-torqued foundation bolts.",
+    "operating_hours_at_service": 8420.0,
+    "parts_replaced": [
+      "Grease seals",
+      "V-ring deflector"
+    ],
+    "local_update_eligible": false
+  }
+]
